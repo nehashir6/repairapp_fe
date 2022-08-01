@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/activity_add_solution.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/activity_modelnumbers.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/activity_problems.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/activity_solutions.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/modelRow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/modelrow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/problemRow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/problemrow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/row.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/Final Repair App/app/src/main/res/layout/solutionrow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/layout/activity_2.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/layout/activity_add_solution.xml" value="0.22" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/layout/activity_modelNumbers.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/layout/activity_solutions.xml" value="0.25" />
+        <entry key="..\:/Users/dell/AndroidStudioProjects/RetrofitTesting/app/src/main/res/layout/list_item.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
